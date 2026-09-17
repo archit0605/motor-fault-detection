@@ -1,6 +1,6 @@
 # Motor Fault Detection Using Time-Frequency Signal Processing and Machine Learning
 
-A sophomore Signals & Systems mini-project that generates physics-based synthetic motor
+A Signals & Systems mini-project that generates physics-based synthetic motor
 vibration signals for four conditions (healthy, imbalance, misalignment, bearing fault),
 analyzes them with classic DSP tools (FFT, PSD, STFT, Hilbert envelope demodulation,
 autocorrelation, Butterworth filtering), extracts a tidy feature table, and trains/compares
